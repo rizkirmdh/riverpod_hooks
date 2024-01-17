@@ -24,7 +24,7 @@ class NextScreen extends HookConsumerWidget {
         appBar: AppBar(
           title: const Center(
             child: Text(
-              "User Data",
+              "Data",
             ),
           ),
           actions: [
